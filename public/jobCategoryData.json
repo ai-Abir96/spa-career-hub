@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category": "Accounting & Finance",
+        "totalPositions": 300,
+        "icon": "./assets/Icons/accounts 1.png"
+    },
+    {
+        "id":2,
+        "category": "Creative Design",
+        "totalPositions": 150,
+        "icon": "./assets/Icons/business 1.png"
+    },
+    {
+        "id":3,
+        "category": "Marketing & Sales",
+        "totalPositions": 200,
+        "icon": "./assets/Icons/social-media 1.png"
+    },
+    {
+        "id":4,
+        "category": "Enginnering Jobs",
+        "totalPositions": 400,
+        "icon": "./assets/Icons/chip 1.png"
+    }   
+]

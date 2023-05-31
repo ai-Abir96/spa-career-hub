@@ -1,0 +1,8 @@
+.statistics{
+    margin: 100px 300px;
+}
+@media only screen and (max-width:640px) {
+    .statistics{
+        margin: 100px 5px;
+    }
+}

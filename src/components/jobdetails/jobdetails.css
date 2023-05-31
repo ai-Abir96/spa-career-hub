@@ -1,0 +1,22 @@
+.jobdetails{
+    margin: 200px 300px;
+}
+.description{
+    margin-top: 200px;
+}
+.jd-container{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+    border-radius: 8px;
+    padding: 30px 30px;
+    font-size: 20px;
+}
+.jdes-container{
+    font-size: 16px;
+    color: #1A1919;
+}
+
+@media only screen and (max-width:640px) {
+    .jobdetails{
+        margin: 200px 5px;
+    }
+}

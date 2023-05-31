@@ -1,0 +1,52 @@
+.appliedjob{
+    margin: 100px 300px; 
+}
+.viewjob{
+    margin: 20px 0px;
+}
+.heading{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.viewjob img{
+    width: 150px;
+    height: 80px;
+}
+.viewjobcontainer{
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+    padding: 30px 30px;
+}
+.jobtype{
+    border: 1px solid #9873FF;
+    border-radius: 4px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding: 9px 19px;
+}
+
+
+
+@media only screen and (max-width:640px) {
+    .appliedjob{
+        margin: 100px 5px; 
+    }
+    .viewjobcontainer{
+        padding: 20px 20px;
+    }
+    .viewjob img{
+        width: 70px;
+        height: 40px;
+    }
+    .jobtype{
+       
+        padding: 5px 10px;
+    }
+    .appliedjob button{
+        padding: 8px 12px;
+    }
+    
+   
+}

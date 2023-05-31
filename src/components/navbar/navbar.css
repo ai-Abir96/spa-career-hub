@@ -1,0 +1,17 @@
+.navbar{
+    margin: 50px 300px; 
+}
+.btn{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width:640px) {
+    .navbar{
+        margin: 50px 5px; 
+    }
+}

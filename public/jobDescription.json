@@ -1,0 +1,112 @@
+[
+    {
+        "id":"1",
+        "company_logo":"./assets/Logo/programming-hero.png",
+        "job_title":"Data Scientist",
+        "company_name":"Programming Hero.",
+        "remote_or_onsite":"Onsite",
+        "location":"Dhaka, Bangladesh",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$100,000 - $150,000",
+        "job_description":"We are seeking a talented data scientist to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"3+ years of experience in data science",
+        "contact_information":{
+        "phone":"+880 1321-456576",
+        "email":"jobs@phero.com"
+        }
+    },
+    {
+        "id":"2",
+        "company_logo":"./assets/Logo/wedev.png",
+        "job_title":"Technical Database Engineer",
+        "company_name":"We Dev",
+        "remote_or_onsite":"Remote",
+        "location":"Dhaka, Bangladesh",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$160,000 - $180,000",
+        "job_description":"We are seeking a talented Database Engineer to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"4+ years of experience in Database Engineer",
+        "contact_information":{
+        "phone":"+880 1232-456765",
+        "email":"jobs@wedev.com"
+        }
+    },
+    {
+        "id":"3",
+        "company_logo":"./assets/Logo/google-1-1 1-1.png",
+        "job_title":"Software Engineer",
+        "company_name":"Google LLC.",
+        "remote_or_onsite":"Remote",
+        "location":"San Francisco, CA",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$50,000 - $80,000",
+        "job_description":"We are seeking a talented Software Engineer to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"1+ years of experience in Software Engineer",
+        "contact_information":{
+        "phone":"+1 (555) 123-4567",
+        "email":"jobs@google.com"
+        }
+    },
+    {
+        "id":"4",
+        "company_logo":"./assets/Logo/netflix-4 1.png",
+        "job_title":"Senior Product Designer",
+        "company_name":"Netflix Inc.",
+        "remote_or_onsite":"Remote",
+        "location":"San Francisco, CA",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$160,000 - $200,000",
+        "job_description":"We are seeking a talented Product Designer to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"5+ years of experience in Product Designer",
+        "contact_information":{
+        "phone":"+1 (555) 123-4567",
+        "email":"jobs@netflix.com"
+        }
+    },
+    {
+        "id":"5",
+        "company_logo":"./assets/Logo/tesla-9 1.png",
+        "job_title":"React Developer",
+        "company_name":"Tesla Inc.",
+        "remote_or_onsite":"Onsite",
+        "location":"San Francisco, CA",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$20,000 - $50,000",
+        "job_description":"We are seeking a talented React Developer to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"2+ years of experience in data science",
+        "contact_information":{
+        "phone":"+1 (555) 123-4567",
+        "email":"jobs@tesla.com"
+        }
+    },
+    {
+        "id":"6",
+        "company_logo":"./assets/Logo/facebook.png",
+        "job_title":"Data Scientist",
+        "company_name":"Facebook",
+        "remote_or_onsite":"Onsite",
+        "location":"San Francisco, CA",
+        "fulltime_or_parttime":"Fulltime",
+        "salary":"$160,000 - $180,000",
+        "job_description":"We are seeking a talented data scientist to join our team and help us analyze large datasets and develop data-driven insights.",
+        "job_responsibility":"Design and implement machine learning models, analyze and interpret data, collaborate with cross-functional teams to identify business opportunities.",
+        "educational_requirements":"Master's degree or PhD in Computer Science, Statistics, or a related field",
+        "experiences":"6+ years of experience in data science",
+        "contact_information":{
+        "phone":"+1 (555) 123-4567",
+        "email":"jobs@facebook.com"
+        }
+    }
+    
+
+]

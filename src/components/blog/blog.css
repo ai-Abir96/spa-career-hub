@@ -1,0 +1,8 @@
+.blog{
+    margin: 120px 300px;
+}
+@media only screen and (max-width:640px) {
+    .blog{
+        margin: 100px 5px; 
+    }
+}
